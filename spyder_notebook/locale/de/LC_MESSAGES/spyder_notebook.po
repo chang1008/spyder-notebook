@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder-notebook\n"
 "POT-Creation-Date: 2021-01-16 12:42+0000\n"
-"PO-Revision-Date: 2021-01-16 13:16\n"
+"PO-Revision-Date: 2021-01-16 15:56\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: spyder_notebook/config.py:27
 msgid "Notebook theme"
-msgstr ""
+msgstr "Notebook-Thema"
 
 #: spyder_notebook/config.py:32
 msgid "Interface"
@@ -99,7 +99,7 @@ msgstr "Serverfehler"
 
 #: spyder_notebook/widgets/client.py:357
 msgid "Spyder could not get a list of sessions from the Jupyter Notebook server. Status code: {}"
-msgstr ""
+msgstr "Spyder konnte keine Liste der Sitzungen vom Jupyter-Notebook-Server abrufen. Statuscode: {}"
 
 #: spyder_notebook/widgets/client.py:388
 msgid "The Jupyter Notebook server failed to shutdown the kernel associated with this notebook. If you want to shut it down, you'll have to close Spyder."
@@ -171,7 +171,7 @@ msgstr "Notebook Verzeichnis:"
 
 #: spyder_notebook/widgets/serverinfo.py:67
 msgid "Python interpreter:"
-msgstr ""
+msgstr "Python-Interpreter:"
 
 #: spyder_notebook/widgets/serverinfo.py:72
 msgid "State:"
