@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder-notebook\n"
 "POT-Creation-Date: 2021-01-16 12:42+0000\n"
-"PO-Revision-Date: 2021-01-16 13:16\n"
+"PO-Revision-Date: 2021-01-18 20:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: spyder_notebook/config.py:27
 msgid "Notebook theme"
-msgstr ""
+msgstr "Tema do Notebook"
 
 #: spyder_notebook/config.py:32
 msgid "Interface"
-msgstr ""
+msgstr "Inteface"
 
 #: spyder_notebook/notebookplugin.py:34 spyder_notebook/widgets/notebooktabwidget.py:43
 msgid "Jupyter notebooks"
@@ -99,7 +99,7 @@ msgstr "Erro no servidor"
 
 #: spyder_notebook/widgets/client.py:357
 msgid "Spyder could not get a list of sessions from the Jupyter Notebook server. Status code: {}"
-msgstr ""
+msgstr "O Spyder não conseguiu obter uma lista de sessões do servidor do Notebook Jupyter. Código de Status: {}"
 
 #: spyder_notebook/widgets/client.py:388
 msgid "The Jupyter Notebook server failed to shutdown the kernel associated with this notebook. If you want to shut it down, you'll have to close Spyder."
@@ -135,7 +135,7 @@ msgstr "Erro ao escrever {}<p>{}"
 
 #: spyder_notebook/widgets/notebooktabwidget.py:479
 msgid "The Spyder Notebook server failed to start or it is taking too much time to do it. Please select 'Server info' in the plugin's option menu to check for errors."
-msgstr ""
+msgstr "O servidor Notebook Spyder falhou ao iniciar ou está demorando muito para fazê-lo. Por favor, selecione ''Informações do servidor' no meu Opções para verificar se há erros."
 
 #: spyder_notebook/widgets/serverinfo.py:27
 msgid "Starting up"
@@ -171,7 +171,7 @@ msgstr "Diretório do Notebook:"
 
 #: spyder_notebook/widgets/serverinfo.py:67
 msgid "Python interpreter:"
-msgstr ""
+msgstr "Interpretador Python:"
 
 #: spyder_notebook/widgets/serverinfo.py:72
 msgid "State:"
