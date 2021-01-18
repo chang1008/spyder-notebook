@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder-notebook\n"
 "POT-Creation-Date: 2021-01-16 12:42+0000\n"
-"PO-Revision-Date: 2021-01-16 15:56\n"
+"PO-Revision-Date: 2021-01-18 20:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr "Notebook-Thema"
 
 #: spyder_notebook/config.py:32
 msgid "Interface"
-msgstr ""
+msgstr "Oberfläche"
 
 #: spyder_notebook/notebookplugin.py:34 spyder_notebook/widgets/notebooktabwidget.py:43
 msgid "Jupyter notebooks"
@@ -135,7 +135,7 @@ msgstr "Fehler beim Schreiben {}<p>{}"
 
 #: spyder_notebook/widgets/notebooktabwidget.py:479
 msgid "The Spyder Notebook server failed to start or it is taking too much time to do it. Please select 'Server info' in the plugin's option menu to check for errors."
-msgstr ""
+msgstr "Der Spyder Notebook Server konnte nicht gestartet werden oder es braucht zu viel Zeit, um es zu tun. Bitte wählen Sie 'Serverinformationen' im Plugin-Optionsmenü, um auf Fehler zu überprüfen."
 
 #: spyder_notebook/widgets/serverinfo.py:27
 msgid "Starting up"
